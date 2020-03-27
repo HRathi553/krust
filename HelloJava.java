@@ -4,7 +4,11 @@ class Main{
   
     System.out.println(" Hello World !!!");
     
-    System.out.println(" Hello Everyone !!!");
+
+    System.out.println(" Lets start something new  !!!");
     
+    
+    System.out.println(" Hello Everyone !!!");
+ 
   }
 }
